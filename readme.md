@@ -71,4 +71,4 @@ Below a list of used libraries:
 
 ## Acknowledgments
 
-The whole project was conducted in cooperation with my group of peer students: Rohit Raj, Kibria Shuvo, Kirthivaasan Puniamurthy, Aleksandr Kurbatov.
+The whole project was conducted in cooperation with my group of peer students: RR, KS, KP, AK.
